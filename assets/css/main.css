@@ -1926,11 +1926,15 @@
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #D6BBDF;
 		}
 
 		.icon.style3 {
 			color: #76ddff;
+		}
+
+		.icon.style4 {
+			color: #FCB062;
 		}
 
 /* Image */

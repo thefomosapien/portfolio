@@ -3359,6 +3359,21 @@ body.is-menu-visible #menu {
 	text-align: center;
 }
 
+#banner video {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -100;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+	background: url(polina.jpg) no-repeat;
+	background-size: cover;
+}
+
 #banner h2 {
 	-moz-transform: scale(1);
 	-webkit-transform: scale(1);

@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
 /* Reset */
 
@@ -3363,7 +3363,6 @@ body.is-menu-visible #menu {
 	z-index: -100;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	transform: translateX(-50%) translateY(-50%);
-	background: url(polina.jpg) no-repeat;
 	background-size: cover;
 }
 
@@ -3496,6 +3495,7 @@ body.is-menu-visible #menu {
 		padding: 7em 3em 5em 3em;
 		height: auto;
 		min-height: 0;
+		background-image: url("images2/water-waves.jpg");
 	}
 	#banner h2 {
 		font-size: 1.25em;

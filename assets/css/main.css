@@ -3586,6 +3586,9 @@ body.is-loading #banner:after {
 	#cta .inner .actions {
 		max-width: none;
 	}
+	#cta {
+		background-image: url("images2/water-waves.jpg");
+	}
 }
 
 
